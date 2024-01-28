@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-j4ippt+3h39u4ontllpc8a(4h&^god(7aicz#@q^sl_(w)2otp
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["https://myfirstproject-gqtb.onrender.com", "http://myfirstproject-gqtb.onrender.com"]
+ALLOWED_HOSTS = ["myfirstproject-gqtb.onrender.com", "http://myfirstproject-gqtb.onrender.com"]
 
 LOGIN_URL = '/login/'
 LOGIN_REDIRECT_URL = '/'

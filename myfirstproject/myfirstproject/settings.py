@@ -46,7 +46,6 @@ INSTALLED_APPS = [
     'conversation',
     'core',
     'dashboard',
-    'responsive',
     'item',
 ]
 
